@@ -1,11 +1,5 @@
-#saved docker image
-tar.gz
-
 # weights
-#docker_submit/
-#nnUNet_results/
-.pth
-huggingface
+nnUNet_results/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
